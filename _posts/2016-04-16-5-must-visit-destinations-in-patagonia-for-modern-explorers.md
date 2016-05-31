@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-31T17:01:15.960Z'
+datePublished: '2016-05-31T17:01:20.344Z'
 sourcePath: _posts/2016-04-16-5-must-visit-destinations-in-patagonia-for-modern-explorers.md
 inFeed: true
 isBasedOnUrl: 'http://mashable.com/2016/04/05/patagonia-adventure-travel/#GmuWjVf0GZqo'
@@ -17,7 +17,7 @@ keywords:
   - tierra
 related: []
 author: []
-dateModified: '2016-05-31T17:01:14.881Z'
+dateModified: '2016-05-31T17:01:17.986Z'
 title: 5 must-visit destinations in Patagonia for modern explorers
 app_links: []
 publisher:
